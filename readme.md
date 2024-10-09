@@ -9,8 +9,9 @@ Foi desenvolvido um sistema simples de cadastro de cidadãos que gera automatica
 
 ## Execução
 
-1. Abrir a pasta do projeto e executar no terminal: php -S localhost:8000 -t public
-2. Abrir o navegador e acessar: http://localhost:8000/index.html
+1. Clone o repositório: git clone https://github.com/Juniorsollar/cadastrocidadao
+2. Abrir a pasta do projeto e executar no terminal: php -S localhost:8000 -t public
+3. Abrir o navegador e acessar: http://localhost:8000/index.html
 
 ## Uso
 
